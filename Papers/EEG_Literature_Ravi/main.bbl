@@ -1,0 +1,59 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{bashivan2015learning}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BP}{%
+         family={Bashivan},
+         familyi={B\bibinitperiod},
+         given={Pouya},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RI}{%
+         family={Rish},
+         familyi={R\bibinitperiod},
+         given={Irina},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=YM}{%
+         family={Yeasin},
+         familyi={Y\bibinitperiod},
+         given={Mohammed},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Codella},
+         familyi={C\bibinitperiod},
+         given={Noel},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BP+1}
+    \strng{fullhash}{BPRIYMCN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Learning representations from EEG with deep
+  recurrent-convolutional neural networks}
+    \field{journaltitle}{arXiv preprint arXiv:1511.06448}
+    \field{year}{2015}
+  \endentry
+\enddatalist
+\endinput
