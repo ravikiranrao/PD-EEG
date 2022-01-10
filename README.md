@@ -6,5 +6,5 @@ While Parkinson’s disease (PD) is typically characterized by motor disorder, t
 
 ## Overview
 ![Overview](./images/EEG_overview.png)
-Our pipeline involves (a) EEG pre-processing and extraction of features such as Spectral Power Vectors (SPV) and Common Spatial Patterns (CSP), (b) feeding of these features or derived representations such as EEG images and movies to machine and deep learning frameworks to perform (i) dimensional and discrete emotion recognition, and (ii) PD vs NC classification.
+Our pipeline involves (a) EEG pre-processing and extraction of features such as Spectral Power Vectors (SPV) and Common Spatial Patterns (CSP), (b) feeding of these features or derived representations such as EEG images and movies to machine and deep learning frameworks to perform (i) dimensional and discrete emotion recognition, and (ii) PD vs HC classification.
 
