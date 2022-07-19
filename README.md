@@ -58,6 +58,3 @@ This research was supported partially by the Australian Government through the A
 Project funding scheme.
 
 -------------------------------
-## License
-Code available under a Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International License
-(CC BY-NC-ND)
