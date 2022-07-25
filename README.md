@@ -1,4 +1,5 @@
 Automated Parkinson’s Disease Detection and Affective Analysis from Emotional EEG Signals
+
 =================================
 
 This is the official GitHub repository for the paper "Automated Parkinson’s Disease Detection and Affective Analysis
@@ -35,22 +36,22 @@ and (ii) PD vs HC classification.
     │
     ├── matlab_files
     │   ├── README.md
-    │   ├── eeg_csp_raw.m        <- Matlab function file to extract 'Raw' and Common Spatial Patterns (CSP) features
-    │   ├── eeg_csp_raw_run.m    <- Matlab 'main' file to run eeg_csp_raw.m
+    │   ├── eeg_csp_raw.m       <- Matlab function file to extract 'Raw' and Common Spatial Patterns (CSP) features
+    │   ├── eeg_csp_raw_run.m   <- Matlab 'main' file to run eeg_csp_raw.m
     │
-    ├── eeg_spectral.ipynb       <- Jupyter notebook for extracting Spatial Power Vectors (SPV) from 'Raw'.
+    ├── eeg_spectral.ipynb      <- Jupyter notebook for extracting Spatial Power Vectors (SPV) from 'Raw'.
     │
-    ├── eeg_to_images.ipynb      <- Jupyter notebook for converting SPVs to 'EEG Images' and 'EEG Videos'.
+    ├── eeg_to_images.ipynb     <- Jupyter notebook for converting SPVs to 'EEG Images' and 'EEG Videos'.
     │
-    ├── EEG_ML.ipynb             <- Jupyter notebook for classification tasks using various ML algorithms.
+    ├── EEG_ML.ipynb            <- Jupyter notebook for classification tasks using various ML algorithms.
     │
-    ├── EEG_1D_CNN.ipynb         <- Jupyter notebook for classification tasks using various 1D-CNN.
+    ├── EEG_1D_CNN.ipynb        <- Jupyter notebook for classification tasks using various 1D-CNN.
     │
-    ├── EEG_2D_CNN.ipynb         <- Jupyter notebook for classification tasks using various 2D-CNN.
+    ├── EEG_2D_CNN.ipynb        <- Jupyter notebook for classification tasks using various 2D-CNN.
     │
-    ├── EEG_3D_CNN.ipynb         <- Jupyter notebook for classification tasks using various 3D-CNN.
+    ├── EEG_3D_CNN.ipynb        <- Jupyter notebook for classification tasks using various 3D-CNN.
     │
-    ├── Stat_test.ipynb          <- Jupyter notebook for performing various statistical tests on the results obtained.
+    ├── Stat_test.ipynb         <- Jupyter notebook for performing various statistical tests on the results obtained.
 
 --------------------------------
 ## Acknowledgment
