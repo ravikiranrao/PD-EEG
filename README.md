@@ -1,5 +1,4 @@
 Automated Parkinson’s Disease Detection and Affective Analysis from Emotional EEG Signals
-
 =================================
 
 This is the official GitHub repository for the paper "Automated Parkinson’s Disease Detection and Affective Analysis
